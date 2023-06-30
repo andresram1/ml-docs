@@ -23,7 +23,7 @@ You can learn about the most relevant cocepts...
 - Unsupeprvised Learning
 - Reinforcement Learning
 
-In the folowwing documentation:
+In the following documentation:
 
 - [Microsoft's ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
