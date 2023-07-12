@@ -32,3 +32,10 @@ In the following documentation:
 
 It is required a good understanding of Python and/or R
 
+
+## Datasets and where to find them
+
+- [UCI Machine Learning dataset](https://archive.ics.uci.edu/)
+- [Kaggle datasets](https://www.kaggle.com/datasets)
+
+
