@@ -17,10 +17,10 @@
 
 ## Next Steps
 
-You can learn about the most relevant cocepts...
+You can learn about the most relevant concepts...
 
-- Supeprvised Learning
-- Unsupeprvised Learning
+- Supervised Learning
+- Unsupervised Learning
 - Reinforcement Learning
 
 In the following documentation:
