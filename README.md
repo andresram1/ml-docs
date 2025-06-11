@@ -17,7 +17,7 @@
 
 ## Next Steps
 
-You can learn about the most relevant concepts...
+You can learn about the most relevant concepts such as...
 
 - Supervised Learning
 - Unsupervised Learning
